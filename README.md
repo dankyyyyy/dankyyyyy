@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+<img src="https://github.com/dankyyyyy/dankyyyyy/blob/main/profile.gif">
+</p>
 
-<!--
-**dankyyyyy/dankyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi and welcome to my profile! ^-^
 
-Here are some ideas to get you started:
+I am a graduate Computer Science student and a current undergraduate of Digital Concept Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love working on projects that make an impact on people's lives.
+
+All of my past projects are public so feel free to look around!
+
+If you want to get in touch: alexandar.m.ruskov@proton.me
