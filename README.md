@@ -10,4 +10,12 @@ I love working on projects that make an impact on people's lives.
 
 All of my past projects are public so feel free to look around!
 
+---
+If you are interested in my creative works, head to:
+
+  ❏ YouTube: youtube.com/@alexmisho
+
+  ❏ My website: focusframe.dk
+
+---
 If you want to get in touch: alexandar.m.ruskov@proton.me
